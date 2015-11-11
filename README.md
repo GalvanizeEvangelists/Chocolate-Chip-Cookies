@@ -1,6 +1,12 @@
 # Chocolate-Chip-Cookies
 Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies"):
 
+### Clone the Galvanize Evangelist Repo
+### Make a branch
+### Push that branch and create a pull request.
+
+
+
 ##How to own this recipe
 - Click "Fork" in the top right corner of the page and it's yours :)
 
