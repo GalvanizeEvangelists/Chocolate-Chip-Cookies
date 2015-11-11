@@ -13,12 +13,13 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 
 
 ##Wet Ingredients
-- 1 cup (2 sticks) unsalted butter, room temperature
+- 1/2 cup (1 stick) unsalted butter, room temperature
 - 1/2 cup granulated sugar
 - 1 cup packed light-brown sugar
 - 1 teaspoon salt
 - 2 teaspoons pure vanilla extract
 - 2 large eggs
+- 1/2 cup Bailey's Irish Creme
 
 
 ##Dry Ingredients
